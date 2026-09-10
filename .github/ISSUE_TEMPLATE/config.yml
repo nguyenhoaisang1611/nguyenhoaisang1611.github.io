@@ -1,11 +1,33 @@
-blank_issues_enabled: false
-contact_links:
-  - name: ❓ Ask a Question
-    url: https://github.com/alshedivat/al-folio/discussions/categories/q-a
-    about: Ask and answer al-folio related questions.
-  - name: 📖 Read the documentation
-    url: https://github.com/alshedivat/al-folio/blob/main/docs/README.md
-    about: Please consult the documentation before opening any issues!
-  - name: ⭐ Add your site to the showcase
-    url: https://github.com/alshedivat/al-folio/discussions
-    about: Request a listing in the Showcase category of GitHub Discussions. Entries are reviewed and added periodically — please do not open a pull request.
+# Thông tin cá nhân
+title: Nguyễn Hoài Sang
+first_name: Hoài Sang
+last_name: Nguyễn
+email: your.email@example.com
+description: "Student majoring in Natural Science Education"
+keywords: natural science education, teaching, technology
+
+# Quote
+tagline: "Learn to understand the world. Experience to understand yourself."
+
+# URL
+url: "https://yourusername.github.io"
+baseurl: ""
+
+# Ngôn ngữ
+lang: "en"
+
+# Ảnh đại diện
+profile:
+  image: assets/img/profile.jpg
+  address: false
+
+# Menu navigation
+nav:
+  - name: Home
+    link: /
+  - name: About
+    link: /about/
+  - name: Blog
+    link: /blog/
+  - name: CV
+    link: /cv/
