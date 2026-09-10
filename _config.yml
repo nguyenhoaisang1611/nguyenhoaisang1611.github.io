@@ -711,3 +711,17 @@ jsonresume:
   - languages
   - interests
   - references
+# Theme settings
+theme_settings:
+  theme: default  # hoặc: dark, light, solarized-light, etc.
+  distill:
+    enable: true
+  
+# Colors
+colors:
+  primary: "#0366d6"  # Màu chủ đạo (xanh GitHub)
+  
+# Fonts
+fonts:
+  text: Helvetica
+  code: Monaco
